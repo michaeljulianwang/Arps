@@ -20,7 +20,7 @@ def Arps(Qi, D, B, dlim, years):
     :return: q_daily: list with daily production rates, bbl/day or scf/day
     :return: q_monthly: list with monthly production rates, bbl/month
 
-    References:Ra
+    References:
     https://secure.spee.org/sites/spee.org/files/wp-files/pdf/ReferencesResources/REP06-DeclineCurves.pdf
     http://www.fekete.com/san/webhelp/feketeharmony/harmony_webhelp/content/html_files/reference_material/analysis_method_theory/Traditional_Decline_Theory.htm
     https://petrowiki.org/Production_forecasting_decline_curve_analysis
