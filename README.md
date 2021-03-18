@@ -1,6 +1,6 @@
 # Arps
 
-Python3 implementation of J.J. Arps equation, commonly used for decline curve analysis.
+Python3 implementation of the J.J. Arps equation, commonly used for decline curve analysis.
 
 User inputs include:
 - `Qi`: initial production, bbl/day or scf/day
